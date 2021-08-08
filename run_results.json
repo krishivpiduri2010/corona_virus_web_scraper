@@ -1,0 +1,1967 @@
+{
+ "total": [
+  {
+   "name": "Coronavirus Cases:",
+   "value": "202,923,423"
+  },
+  {
+   "name": "Deaths:",
+   "value": "4,298,270"
+  },
+  {
+   "name": "Recovered:",
+   "value": "182,276,508"
+  }
+ ],
+ "country": [
+  {
+   "name": "USA",
+   "total_cases": "36,516,242",
+   "total_deaths": "632,979",
+   "active_cases": "6,031,461",
+   "total_tests": "543,721,986",
+   "popu": "333,130,197",
+   "popu_url": "https://www.worldometers.info/world-population/us-population/"
+  },
+  {
+   "name": "India",
+   "total_cases": "31,933,553",
+   "total_deaths": "427,892",
+   "active_cases": "413,564",
+   "total_tests": "478,316,964",
+   "popu": "1,394,864,708",
+   "popu_url": "https://www.worldometers.info/world-population/india-population/"
+  },
+  {
+   "name": "Brazil",
+   "total_cases": "20,151,779",
+   "total_deaths": "562,752",
+   "active_cases": "720,425",
+   "total_tests": "55,034,721",
+   "popu": "214,215,222",
+   "popu_url": "https://www.worldometers.info/world-population/brazil-population/"
+  },
+  {
+   "name": "Russia",
+   "total_cases": "6,424,884",
+   "total_deaths": "164,094",
+   "active_cases": "520,952",
+   "total_tests": "168,500,000",
+   "popu": "146,003,116",
+   "popu_url": "https://www.worldometers.info/world-population/russia-population/"
+  },
+  {
+   "name": "France",
+   "total_cases": "6,284,708",
+   "total_deaths": "112,190",
+   "active_cases": "416,946",
+   "total_tests": "108,610,486",
+   "popu": "65,431,931",
+   "popu_url": "https://www.worldometers.info/world-population/france-population/"
+  },
+  {
+   "name": "UK",
+   "total_cases": "6,042,252",
+   "total_deaths": "130,281",
+   "active_cases": "1,289,703",
+   "total_tests": "249,796,318",
+   "popu": "68,276,936",
+   "popu_url": "https://www.worldometers.info/world-population/uk-population/"
+  },
+  {
+   "name": "Turkey",
+   "total_cases": "5,895,841",
+   "total_deaths": "52,088",
+   "active_cases": "345,233",
+   "total_tests": "69,643,181",
+   "popu": "85,332,875",
+   "popu_url": "https://www.worldometers.info/world-population/turkey-population/"
+  },
+  {
+   "name": "Argentina",
+   "total_cases": "5,012,754",
+   "total_deaths": "107,302",
+   "active_cases": "247,424",
+   "total_tests": "20,076,112",
+   "popu": "45,650,074",
+   "popu_url": "https://www.worldometers.info/world-population/argentina-population/"
+  },
+  {
+   "name": "Colombia",
+   "total_cases": "4,834,634",
+   "total_deaths": "122,277",
+   "active_cases": "69,270",
+   "total_tests": "22,970,866",
+   "popu": "51,476,806",
+   "popu_url": "https://www.worldometers.info/world-population/colombia-population/"
+  },
+  {
+   "name": "Spain",
+   "total_cases": "4,588,132",
+   "total_deaths": "82,006",
+   "active_cases": "721,582",
+   "total_tests": "57,177,901",
+   "popu": "46,774,647",
+   "popu_url": "https://www.worldometers.info/world-population/spain-population/"
+  },
+  {
+   "name": "Italy",
+   "total_cases": "4,390,684",
+   "total_deaths": "128,209",
+   "active_cases": "108,535",
+   "total_tests": "78,971,392",
+   "popu": "60,364,254",
+   "popu_url": "https://www.worldometers.info/world-population/italy-population/"
+  },
+  {
+   "name": "Iran",
+   "total_cases": "4,119,110",
+   "total_deaths": "93,473",
+   "active_cases": "510,374",
+   "total_tests": "26,236,676",
+   "popu": "85,169,724",
+   "popu_url": "https://www.worldometers.info/world-population/iran-population/"
+  },
+  {
+   "name": "Germany",
+   "total_cases": "3,795,590",
+   "total_deaths": "92,277",
+   "active_cases": "39,213",
+   "total_tests": "67,083,026",
+   "popu": "84,077,733",
+   "popu_url": "https://www.worldometers.info/world-population/germany-population/"
+  },
+  {
+   "name": "Indonesia",
+   "total_cases": "3,639,616",
+   "total_deaths": "105,598",
+   "active_cases": "497,824",
+   "total_tests": "27,822,427",
+   "popu": "276,691,046",
+   "popu_url": "https://www.worldometers.info/world-population/indonesia-population/"
+  },
+  {
+   "name": "Mexico",
+   "total_cases": "2,944,226",
+   "total_deaths": "243,733",
+   "active_cases": "402,419",
+   "total_tests": "8,711,596",
+   "popu": "130,416,235",
+   "popu_url": "https://www.worldometers.info/world-population/mexico-population/"
+  },
+  {
+   "name": "Poland",
+   "total_cases": "2,883,976",
+   "total_deaths": "75,285",
+   "active_cases": "154,332",
+   "total_tests": "18,870,144",
+   "popu": "37,801,122",
+   "popu_url": "https://www.worldometers.info/world-population/poland-population/"
+  },
+  {
+   "name": "South Africa",
+   "total_cases": "2,523,488",
+   "total_deaths": "74,623",
+   "active_cases": "158,544",
+   "total_tests": "15,213,499",
+   "popu": "60,127,232",
+   "popu_url": "https://www.worldometers.info/world-population/south-africa-population/"
+  },
+  {
+   "name": "Ukraine",
+   "total_cases": "2,258,532",
+   "total_deaths": "53,085",
+   "active_cases": "14,761",
+   "total_tests": "11,509,815",
+   "popu": "43,445,213",
+   "popu_url": "https://www.worldometers.info/world-population/ukraine-population/"
+  },
+  {
+   "name": "Peru",
+   "total_cases": "2,122,557",
+   "total_deaths": "196,818",
+   "active_cases": "N/A",
+   "total_tests": "15,762,783",
+   "popu": "33,474,485",
+   "popu_url": "https://www.worldometers.info/world-population/peru-population/"
+  },
+  {
+   "name": "Netherlands",
+   "total_cases": "1,883,513",
+   "total_deaths": "17,867",
+   "active_cases": "181,593",
+   "total_tests": "16,061,819",
+   "popu": "17,176,456",
+   "popu_url": "https://www.worldometers.info/world-population/netherlands-population/"
+  },
+  {
+   "name": "Iraq",
+   "total_cases": "1,704,363",
+   "total_deaths": "19,146",
+   "active_cases": "165,217",
+   "total_tests": "13,417,517",
+   "popu": "41,208,329",
+   "popu_url": "https://www.worldometers.info/world-population/iraq-population/"
+  },
+  {
+   "name": "Czechia",
+   "total_cases": "1,674,726",
+   "total_deaths": "30,363",
+   "active_cases": "2,459",
+   "total_tests": "33,673,497",
+   "popu": "10,730,773",
+   "popu_url": "https://www.worldometers.info/world-population/czech-republic-population/"
+  },
+  {
+   "name": "Philippines",
+   "total_cases": "1,649,341",
+   "total_deaths": "28,835",
+   "active_cases": "76,063",
+   "total_tests": "17,095,300",
+   "popu": "111,177,380",
+   "popu_url": "https://www.worldometers.info/world-population/philippines-population/"
+  },
+  {
+   "name": "Chile",
+   "total_cases": "1,622,509",
+   "total_deaths": "35,951",
+   "active_cases": "8,576",
+   "total_tests": "19,043,313",
+   "popu": "19,295,972",
+   "popu_url": "https://www.worldometers.info/world-population/chile-population/"
+  },
+  {
+   "name": "Canada",
+   "total_cases": "1,438,080",
+   "total_deaths": "26,663",
+   "active_cases": "9,995",
+   "total_tests": "38,835,904",
+   "popu": "38,104,676",
+   "popu_url": "https://www.worldometers.info/world-population/canada-population/"
+  },
+  {
+   "name": "Bangladesh",
+   "total_cases": "1,343,396",
+   "total_deaths": "22,411",
+   "active_cases": "132,165",
+   "total_tests": "8,075,407",
+   "popu": "166,486,421",
+   "popu_url": "https://www.worldometers.info/world-population/bangladesh-population/"
+  },
+  {
+   "name": "Malaysia",
+   "total_cases": "1,243,852",
+   "total_deaths": "10,389",
+   "active_cases": "224,120",
+   "total_tests": "19,011,753",
+   "popu": "32,819,914",
+   "popu_url": "https://www.worldometers.info/world-population/malaysia-population/"
+  },
+  {
+   "name": "Belgium",
+   "total_cases": "1,136,726",
+   "total_deaths": "25,268",
+   "active_cases": "47,611",
+   "total_tests": "17,565,235",
+   "popu": "11,644,925",
+   "popu_url": "https://www.worldometers.info/world-population/belgium-population/"
+  },
+  {
+   "name": "Sweden",
+   "total_cases": "1,104,538",
+   "total_deaths": "14,620",
+   "active_cases": "12,248",
+   "total_tests": "11,373,506",
+   "popu": "10,168,286",
+   "popu_url": "https://www.worldometers.info/world-population/sweden-population/"
+  },
+  {
+   "name": "Romania",
+   "total_cases": "1,084,711",
+   "total_deaths": "34,313",
+   "active_cases": "1,917",
+   "total_tests": "10,733,442",
+   "popu": "19,096,741",
+   "popu_url": "https://www.worldometers.info/world-population/romania-population/"
+  },
+  {
+   "name": "Pakistan",
+   "total_cases": "1,063,125",
+   "total_deaths": "23,797",
+   "active_cases": "79,837",
+   "total_tests": "16,393,404",
+   "popu": "225,580,329",
+   "popu_url": "https://www.worldometers.info/world-population/pakistan-population/"
+  },
+  {
+   "name": "Japan",
+   "total_cases": "1,001,281",
+   "total_deaths": "15,255",
+   "active_cases": "112,507",
+   "total_tests": "19,045,727",
+   "popu": "126,051,439",
+   "popu_url": "https://www.worldometers.info/world-population/japan-population/"
+  },
+  {
+   "name": "Portugal",
+   "total_cases": "984,985",
+   "total_deaths": "17,457",
+   "active_cases": "44,018",
+   "total_tests": "15,636,521",
+   "popu": "10,164,073",
+   "popu_url": "https://www.worldometers.info/world-population/portugal-population/"
+  },
+  {
+   "name": "Israel",
+   "total_cases": "897,326",
+   "total_deaths": "6,535",
+   "active_cases": "31,736",
+   "total_tests": "16,867,222"
+  },
+  {
+   "name": "Hungary",
+   "total_cases": "809,855",
+   "total_deaths": "30,033",
+   "active_cases": "27,113",
+   "total_tests": "6,375,668",
+   "popu": "9,633,426",
+   "popu_url": "https://www.worldometers.info/world-population/hungary-population/"
+  },
+  {
+   "name": "Jordan",
+   "total_cases": "776,178",
+   "total_deaths": "10,116",
+   "active_cases": "12,256",
+   "total_tests": "8,628,728",
+   "popu": "10,314,073",
+   "popu_url": "https://www.worldometers.info/world-population/jordan-population/"
+  },
+  {
+   "name": "Thailand",
+   "total_cases": "736,522",
+   "total_deaths": "6,066",
+   "active_cases": "213,444",
+   "total_tests": "8,129,670",
+   "popu": "69,992,073",
+   "popu_url": "https://www.worldometers.info/world-population/thailand-population/"
+  },
+  {
+   "name": "Serbia",
+   "total_cases": "725,245",
+   "total_deaths": "7,135",
+   "active_cases": "6,426",
+   "total_tests": "4,738,996",
+   "popu": "8,698,732",
+   "popu_url": "https://www.worldometers.info/world-population/serbia-population/"
+  },
+  {
+   "name": "Switzerland",
+   "total_cases": "723,968",
+   "total_deaths": "10,909",
+   "active_cases": "19,610",
+   "total_tests": "9,192,935",
+   "popu": "8,723,978",
+   "popu_url": "https://www.worldometers.info/world-population/switzerland-population/"
+  },
+  {
+   "name": "Nepal",
+   "total_cases": "712,740",
+   "total_deaths": "10,038",
+   "active_cases": "35,432",
+   "total_tests": "3,674,701",
+   "popu": "29,709,782",
+   "popu_url": "https://www.worldometers.info/world-population/nepal-population/"
+  },
+  {
+   "name": "UAE",
+   "total_cases": "691,554",
+   "total_deaths": "1,971",
+   "active_cases": "21,029",
+   "total_tests": "67,618,636",
+   "popu": "10,021,224",
+   "popu_url": "https://www.worldometers.info/world-population/united-arab-emirates-population/"
+  },
+  {
+   "name": "Morocco",
+   "total_cases": "687,292",
+   "total_deaths": "10,255",
+   "active_cases": "71,606",
+   "total_tests": "7,952,564",
+   "popu": "37,389,539",
+   "popu_url": "https://www.worldometers.info/world-population/morocco-population/"
+  },
+  {
+   "name": "Austria",
+   "total_cases": "662,529",
+   "total_deaths": "10,750",
+   "active_cases": "6,085",
+   "total_tests": "68,936,690",
+   "popu": "9,062,727",
+   "popu_url": "https://www.worldometers.info/world-population/austria-population/"
+  },
+  {
+   "name": "Kazakhstan",
+   "total_cases": "626,412",
+   "total_deaths": "6,659",
+   "active_cases": "105,454",
+   "total_tests": "11,575,012",
+   "popu": "19,022,594",
+   "popu_url": "https://www.worldometers.info/world-population/kazakhstan-population/"
+  },
+  {
+   "name": "Tunisia",
+   "total_cases": "608,114",
+   "total_deaths": "20,809",
+   "active_cases": "47,966",
+   "total_tests": "2,326,369",
+   "popu": "11,954,051",
+   "popu_url": "https://www.worldometers.info/world-population/tunisia-population/"
+  },
+  {
+   "name": "Lebanon",
+   "total_cases": "570,098",
+   "total_deaths": "7,938",
+   "active_cases": "23,332",
+   "total_tests": "4,731,376",
+   "popu": "6,791,885",
+   "popu_url": "https://www.worldometers.info/world-population/lebanon-population/"
+  },
+  {
+   "name": "Saudi Arabia",
+   "total_cases": "532,785",
+   "total_deaths": "8,320",
+   "active_cases": "10,103",
+   "total_tests": "25,747,739",
+   "popu": "35,406,980",
+   "popu_url": "https://www.worldometers.info/world-population/saudi-arabia-population/"
+  },
+  {
+   "name": "Greece",
+   "total_cases": "512,342",
+   "total_deaths": "13,031",
+   "active_cases": "33,780",
+   "total_tests": "13,438,626",
+   "popu": "10,367,150",
+   "popu_url": "https://www.worldometers.info/world-population/greece-population/"
+  },
+  {
+   "name": "Ecuador",
+   "total_cases": "491,185",
+   "total_deaths": "31,774",
+   "active_cases": "15,531",
+   "total_tests": "1,703,531",
+   "popu": "17,936,154",
+   "popu_url": "https://www.worldometers.info/world-population/ecuador-population/"
+  },
+  {
+   "name": "Bolivia",
+   "total_cases": "477,262",
+   "total_deaths": "17,959",
+   "active_cases": "45,482",
+   "total_tests": "2,112,530",
+   "popu": "11,847,282",
+   "popu_url": "https://www.worldometers.info/world-population/bolivia-population/"
+  },
+  {
+   "name": "Paraguay",
+   "total_cases": "454,542",
+   "total_deaths": "15,238",
+   "active_cases": "13,446",
+   "total_tests": "1,703,347",
+   "popu": "7,228,450",
+   "popu_url": "https://www.worldometers.info/world-population/paraguay-population/"
+  },
+  {
+   "name": "Belarus",
+   "total_cases": "452,953",
+   "total_deaths": "3,523",
+   "active_cases": "2,371",
+   "total_tests": "7,406,823",
+   "popu": "9,445,912",
+   "popu_url": "https://www.worldometers.info/world-population/belarus-population/"
+  },
+  {
+   "name": "Cuba",
+   "total_cases": "448,792",
+   "total_deaths": "3,355",
+   "active_cases": "46,780",
+   "total_tests": "6,818,335",
+   "popu": "11,319,030",
+   "popu_url": "https://www.worldometers.info/world-population/cuba-population/"
+  },
+  {
+   "name": "Georgia",
+   "total_cases": "444,569",
+   "total_deaths": "6,054",
+   "active_cases": "41,275",
+   "total_tests": "7,052,237",
+   "popu": "3,980,763",
+   "popu_url": "https://www.worldometers.info/world-population/georgia-population/"
+  },
+  {
+   "name": "Panama",
+   "total_cases": "440,494",
+   "total_deaths": "6,885",
+   "active_cases": "11,142",
+   "total_tests": "3,427,588",
+   "popu": "4,389,067",
+   "popu_url": "https://www.worldometers.info/world-population/panama-population/"
+  },
+  {
+   "name": "Bulgaria",
+   "total_cases": "427,873",
+   "total_deaths": "18,252",
+   "active_cases": "10,747",
+   "total_tests": "3,745,578",
+   "popu": "6,890,989",
+   "popu_url": "https://www.worldometers.info/world-population/bulgaria-population/"
+  },
+  {
+   "name": "Costa Rica",
+   "total_cases": "416,677",
+   "total_deaths": "5,124",
+   "active_cases": "74,130",
+   "total_tests": "1,818,915",
+   "popu": "5,145,074",
+   "popu_url": "https://www.worldometers.info/world-population/costa-rica-population/"
+  },
+  {
+   "name": "Kuwait",
+   "total_cases": "402,794",
+   "total_deaths": "2,366",
+   "active_cases": "8,829",
+   "total_tests": "3,500,392",
+   "popu": "4,339,674",
+   "popu_url": "https://www.worldometers.info/world-population/kuwait-population/"
+  },
+  {
+   "name": "Slovakia",
+   "total_cases": "393,007",
+   "total_deaths": "12,541",
+   "active_cases": "705",
+   "total_tests": "3,190,859",
+   "popu": "5,462,543",
+   "popu_url": "https://www.worldometers.info/world-population/slovakia-population/"
+  },
+  {
+   "name": "Guatemala",
+   "total_cases": "389,510",
+   "total_deaths": "10,714",
+   "active_cases": "39,709",
+   "total_tests": "1,946,127",
+   "popu": "18,277,869",
+   "popu_url": "https://www.worldometers.info/world-population/guatemala-population/"
+  },
+  {
+   "name": "Uruguay",
+   "total_cases": "382,295",
+   "total_deaths": "5,986",
+   "active_cases": "1,742",
+   "total_tests": "3,120,695",
+   "popu": "3,486,931",
+   "popu_url": "https://www.worldometers.info/world-population/uruguay-population/"
+  },
+  {
+   "name": "Croatia",
+   "total_cases": "364,832",
+   "total_deaths": "8,271",
+   "active_cases": "1,201",
+   "total_tests": "2,345,366",
+   "popu": "4,077,464",
+   "popu_url": "https://www.worldometers.info/world-population/croatia-population/"
+  },
+  {
+   "name": "Azerbaijan",
+   "total_cases": "350,605",
+   "total_deaths": "5,056",
+   "active_cases": "10,882",
+   "total_tests": "4,107,190",
+   "popu": "10,239,290",
+   "popu_url": "https://www.worldometers.info/world-population/azerbaijan-population/"
+  },
+  {
+   "name": "Dominican Republic",
+   "total_cases": "344,151",
+   "total_deaths": "3,974",
+   "active_cases": "13,676",
+   "total_tests": "1,862,459",
+   "popu": "10,967,053",
+   "popu_url": "https://www.worldometers.info/world-population/dominican-republic-population/"
+  },
+  {
+   "name": "Myanmar",
+   "total_cases": "326,489",
+   "total_deaths": "11,526",
+   "active_cases": "76,216",
+   "total_tests": "3,248,320",
+   "popu": "54,809,549",
+   "popu_url": "https://www.worldometers.info/world-population/myanmar-population/"
+  },
+  {
+   "name": "Sri Lanka",
+   "total_cases": "326,043",
+   "total_deaths": "5,017",
+   "active_cases": "30,232",
+   "total_tests": "4,412,770",
+   "popu": "21,511,691",
+   "popu_url": "https://www.worldometers.info/world-population/sri-lanka-population/"
+  },
+  {
+   "name": "Denmark",
+   "total_cases": "322,965",
+   "total_deaths": "2,552",
+   "active_cases": "11,864",
+   "total_tests": "77,345,721",
+   "popu": "5,814,569",
+   "popu_url": "https://www.worldometers.info/world-population/denmark-population/"
+  },
+  {
+   "name": "Palestine",
+   "total_cases": "317,703",
+   "total_deaths": "3,611",
+   "active_cases": "1,677",
+   "total_tests": "2,015,053",
+   "popu": "5,230,916",
+   "popu_url": "https://www.worldometers.info/world-population/state-of-palestine-population/"
+  },
+  {
+   "name": "Venezuela",
+   "total_cases": "310,960",
+   "total_deaths": "3,682",
+   "active_cases": "10,679",
+   "total_tests": "3,359,014",
+   "popu": "28,347,499",
+   "popu_url": "https://www.worldometers.info/world-population/venezuela-population/"
+  },
+  {
+   "name": "Ireland",
+   "total_cases": "310,628",
+   "total_deaths": "5,044",
+   "active_cases": "34,524",
+   "total_tests": "4,729,538",
+   "popu": "4,998,181",
+   "popu_url": "https://www.worldometers.info/world-population/ireland-population/"
+  },
+  {
+   "name": "Honduras",
+   "total_cases": "305,936",
+   "total_deaths": "8,120",
+   "active_cases": "194,706",
+   "total_tests": "900,371",
+   "popu": "10,076,922",
+   "popu_url": "https://www.worldometers.info/world-population/honduras-population/"
+  },
+  {
+   "name": "Oman",
+   "total_cases": "298,020",
+   "total_deaths": "3,906",
+   "active_cases": "11,351",
+   "total_tests": "1,550,000",
+   "popu": "5,248,380",
+   "popu_url": "https://www.worldometers.info/world-population/oman-population/"
+  },
+  {
+   "name": "Lithuania",
+   "total_cases": "285,726",
+   "total_deaths": "4,424",
+   "active_cases": "10,605",
+   "total_tests": "4,122,713",
+   "popu": "2,680,529",
+   "popu_url": "https://www.worldometers.info/world-population/lithuania-population/"
+  },
+  {
+   "name": "Egypt",
+   "total_cases": "284,580",
+   "total_deaths": "16,562",
+   "active_cases": "35,417",
+   "total_tests": "3,068,679",
+   "popu": "104,444,279",
+   "popu_url": "https://www.worldometers.info/world-population/egypt-population/"
+  },
+  {
+   "name": "Ethiopia",
+   "total_cases": "283,667",
+   "total_deaths": "4,421",
+   "active_cases": "14,934",
+   "total_tests": "3,063,593",
+   "popu": "118,072,191",
+   "popu_url": "https://www.worldometers.info/world-population/ethiopia-population/"
+  },
+  {
+   "name": "Bahrain",
+   "total_cases": "269,949",
+   "total_deaths": "1,384",
+   "active_cases": "1,039",
+   "total_tests": "5,553,728",
+   "popu": "1,765,990",
+   "popu_url": "https://www.worldometers.info/world-population/bahrain-population/"
+  },
+  {
+   "name": "Libya",
+   "total_cases": "264,827",
+   "total_deaths": "3,689",
+   "active_cases": "63,575",
+   "total_tests": "1,353,905",
+   "popu": "6,973,551",
+   "popu_url": "https://www.worldometers.info/world-population/libya-population/"
+  },
+  {
+   "name": "Moldova",
+   "total_cases": "260,555",
+   "total_deaths": "6,279",
+   "active_cases": "1,461",
+   "total_tests": "1,446,432",
+   "popu": "4,023,672",
+   "popu_url": "https://www.worldometers.info/world-population/moldova-population/"
+  },
+  {
+   "name": "Slovenia",
+   "total_cases": "260,041",
+   "total_deaths": "4,431",
+   "active_cases": "1,418",
+   "total_tests": "1,401,752",
+   "popu": "2,079,252",
+   "popu_url": "https://www.worldometers.info/world-population/slovenia-population/"
+  },
+  {
+   "name": "Armenia",
+   "total_cases": "231,923",
+   "total_deaths": "4,641",
+   "active_cases": "6,239",
+   "total_tests": "1,385,302",
+   "popu": "2,969,318",
+   "popu_url": "https://www.worldometers.info/world-population/armenia-population/"
+  },
+  {
+   "name": "Qatar",
+   "total_cases": "227,472",
+   "total_deaths": "601",
+   "active_cases": "2,168",
+   "total_tests": "2,370,831"
+  },
+  {
+   "name": "Kenya",
+   "total_cases": "211,028",
+   "total_deaths": "4,117",
+   "active_cases": "9,882",
+   "total_tests": "2,184,276",
+   "popu": "55,065,090",
+   "popu_url": "https://www.worldometers.info/world-population/kenya-population/"
+  },
+  {
+   "name": "S. Korea",
+   "total_cases": "209,228",
+   "total_deaths": "2,116",
+   "active_cases": "23,323",
+   "total_tests": "11,995,928",
+   "popu": "51,317,591",
+   "popu_url": "https://www.worldometers.info/world-population/south-korea-population/"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "total_cases": "206,106",
+   "total_deaths": "9,691",
+   "active_cases": "5,750",
+   "total_tests": "1,083,943",
+   "popu": "3,258,407",
+   "popu_url": "https://www.worldometers.info/world-population/bosnia-and-herzegovina-population/"
+  },
+  {
+   "name": "Vietnam",
+   "total_cases": "200,715",
+   "total_deaths": "3,016",
+   "active_cases": "131,062",
+   "total_tests": "11,890,084",
+   "popu": "98,297,996",
+   "popu_url": "https://www.worldometers.info/world-population/viet-nam-population/"
+  },
+  {
+   "name": "Zambia",
+   "total_cases": "199,662",
+   "total_deaths": "3,474",
+   "active_cases": "4,352",
+   "total_tests": "2,135,400",
+   "popu": "18,945,565",
+   "popu_url": "https://www.worldometers.info/world-population/zambia-population/"
+  },
+  {
+   "name": "Algeria",
+   "total_cases": "180,356",
+   "total_deaths": "4,520",
+   "active_cases": "55,192",
+   "total_tests": "230,861",
+   "popu": "44,716,783",
+   "popu_url": "https://www.worldometers.info/world-population/algeria-population/"
+  },
+  {
+   "name": "Nigeria",
+   "total_cases": "177,142",
+   "total_deaths": "2,181",
+   "active_cases": "9,552",
+   "total_tests": "2,542,261",
+   "popu": "211,716,935",
+   "popu_url": "https://www.worldometers.info/world-population/nigeria-population/"
+  },
+  {
+   "name": "Mongolia",
+   "total_cases": "172,069",
+   "total_deaths": "846",
+   "active_cases": "8,545",
+   "total_tests": "3,446,882",
+   "popu": "3,336,036",
+   "popu_url": "https://www.worldometers.info/world-population/mongolia-population/"
+  },
+  {
+   "name": "Kyrgyzstan",
+   "total_cases": "168,415",
+   "total_deaths": "2,389",
+   "active_cases": "10,579",
+   "total_tests": "1,568,073",
+   "popu": "6,641,921",
+   "popu_url": "https://www.worldometers.info/world-population/kyrgyzstan-population/"
+  },
+  {
+   "name": "North Macedonia",
+   "total_cases": "157,627",
+   "total_deaths": "5,503",
+   "active_cases": "1,618",
+   "total_tests": "1,012,809",
+   "popu": "2,083,280",
+   "popu_url": "https://www.worldometers.info/world-population/macedonia-population/"
+  },
+  {
+   "name": "Afghanistan",
+   "total_cases": "150,458",
+   "total_deaths": "6,908",
+   "active_cases": "40,723",
+   "total_tests": "727,140",
+   "popu": "39,885,893",
+   "popu_url": "https://www.worldometers.info/world-population/afghanistan-population/"
+  },
+  {
+   "name": "Norway",
+   "total_cases": "140,344",
+   "total_deaths": "804",
+   "active_cases": "50,588",
+   "total_tests": "6,702,705",
+   "popu": "5,467,689",
+   "popu_url": "https://www.worldometers.info/world-population/norway-population/"
+  },
+  {
+   "name": "Latvia",
+   "total_cases": "139,347",
+   "total_deaths": "2,559",
+   "active_cases": "913",
+   "total_tests": "3,185,369",
+   "popu": "1,863,280",
+   "popu_url": "https://www.worldometers.info/world-population/latvia-population/"
+  },
+  {
+   "name": "Uzbekistan",
+   "total_cases": "135,738",
+   "total_deaths": "923",
+   "active_cases": "5,633",
+   "total_tests": "1,377,915",
+   "popu": "33,999,956",
+   "popu_url": "https://www.worldometers.info/world-population/uzbekistan-population/"
+  },
+  {
+   "name": "Estonia",
+   "total_cases": "134,950",
+   "total_deaths": "1,277",
+   "active_cases": "4,078",
+   "total_tests": "1,643,898",
+   "popu": "1,327,514",
+   "popu_url": "https://www.worldometers.info/world-population/estonia-population/"
+  },
+  {
+   "name": "Albania",
+   "total_cases": "133,730",
+   "total_deaths": "2,459",
+   "active_cases": "876",
+   "total_tests": "927,116",
+   "popu": "2,874,349",
+   "popu_url": "https://www.worldometers.info/world-population/albania-population/"
+  },
+  {
+   "name": "Mozambique",
+   "total_cases": "131,799",
+   "total_deaths": "1,600",
+   "active_cases": "27,810",
+   "total_tests": "774,098",
+   "popu": "32,210,620",
+   "popu_url": "https://www.worldometers.info/world-population/mozambique-population/"
+  },
+  {
+   "name": "Botswana",
+   "total_cases": "122,574",
+   "total_deaths": "1,704",
+   "active_cases": "16,139",
+   "total_tests": "1,525,222",
+   "popu": "2,403,515",
+   "popu_url": "https://www.worldometers.info/world-population/botswana-population/"
+  },
+  {
+   "name": "Namibia",
+   "total_cases": "120,814",
+   "total_deaths": "3,182",
+   "active_cases": "18,577",
+   "total_tests": "624,088",
+   "popu": "2,591,215",
+   "popu_url": "https://www.worldometers.info/world-population/namibia-population/"
+  },
+  {
+   "name": "Zimbabwe",
+   "total_cases": "115,890",
+   "total_deaths": "3,826",
+   "active_cases": "24,648",
+   "total_tests": "1,143,814",
+   "popu": "15,099,665",
+   "popu_url": "https://www.worldometers.info/world-population/zimbabwe-population/"
+  },
+  {
+   "name": "Finland",
+   "total_cases": "110,885",
+   "total_deaths": "984",
+   "active_cases": "63,901",
+   "total_tests": "6,030,061",
+   "popu": "5,550,162",
+   "popu_url": "https://www.worldometers.info/world-population/finland-population/"
+  },
+  {
+   "name": "Ghana",
+   "total_cases": "106,434",
+   "total_deaths": "854",
+   "active_cases": "6,766",
+   "total_tests": "1,459,845",
+   "popu": "31,781,632",
+   "popu_url": "https://www.worldometers.info/world-population/ghana-population/"
+  },
+  {
+   "name": "Cyprus",
+   "total_cases": "104,994",
+   "total_deaths": "437",
+   "active_cases": "24,379",
+   "total_tests": "9,366,973",
+   "popu": "1,216,990",
+   "popu_url": "https://www.worldometers.info/world-population/cyprus-population/"
+  },
+  {
+   "name": "Montenegro",
+   "total_cases": "103,443",
+   "total_deaths": "1,635",
+   "active_cases": "2,395",
+   "total_tests": "527,957",
+   "popu": "628,153",
+   "popu_url": "https://www.worldometers.info/world-population/montenegro-population/"
+  },
+  {
+   "name": "Uganda",
+   "total_cases": "95,474",
+   "total_deaths": "2,785",
+   "active_cases": "3,280",
+   "total_tests": "1,495,381",
+   "popu": "47,315,405",
+   "popu_url": "https://www.worldometers.info/world-population/uganda-population/"
+  },
+  {
+   "name": "China",
+   "total_cases": "93,605",
+   "total_deaths": "4,636",
+   "active_cases": "1,444",
+   "total_tests": "160,000,000"
+  },
+  {
+   "name": "El Salvador",
+   "total_cases": "88,371",
+   "total_deaths": "2,691",
+   "active_cases": "8,728",
+   "total_tests": "1,155,634",
+   "popu": "6,522,084",
+   "popu_url": "https://www.worldometers.info/world-population/el-salvador-population/"
+  },
+  {
+   "name": "Cameroon",
+   "total_cases": "82,064",
+   "total_deaths": "1,334",
+   "active_cases": "297",
+   "total_tests": "1,751,774",
+   "popu": "27,267,180",
+   "popu_url": "https://www.worldometers.info/world-population/cameroon-population/"
+  },
+  {
+   "name": "Cambodia",
+   "total_cases": "81,335",
+   "total_deaths": "1,537",
+   "active_cases": "5,053",
+   "total_tests": "1,868,793",
+   "popu": "16,972,180",
+   "popu_url": "https://www.worldometers.info/world-population/cambodia-population/"
+  },
+  {
+   "name": "Maldives",
+   "total_cases": "78,243",
+   "total_deaths": "222",
+   "active_cases": "2,571",
+   "total_tests": "1,213,111",
+   "popu": "550,954",
+   "popu_url": "https://www.worldometers.info/world-population/maldives-population/"
+  },
+  {
+   "name": "Rwanda",
+   "total_cases": "75,643",
+   "total_deaths": "881",
+   "active_cases": "29,786",
+   "total_tests": "2,151,227",
+   "popu": "13,302,707",
+   "popu_url": "https://www.worldometers.info/world-population/rwanda-population/"
+  },
+  {
+   "name": "Luxembourg",
+   "total_cases": "74,262",
+   "total_deaths": "824",
+   "active_cases": "902",
+   "total_tests": "3,314,752",
+   "popu": "637,117",
+   "popu_url": "https://www.worldometers.info/world-population/luxembourg-population/"
+  },
+  {
+   "name": "Senegal",
+   "total_cases": "66,898",
+   "total_deaths": "1,467",
+   "active_cases": "15,330",
+   "total_tests": "670,817",
+   "popu": "17,225,420",
+   "popu_url": "https://www.worldometers.info/world-population/senegal-population/"
+  },
+  {
+   "name": "Singapore",
+   "total_cases": "65,686",
+   "total_deaths": "42",
+   "active_cases": "1,986",
+   "total_tests": "16,206,203",
+   "popu": "5,900,756",
+   "popu_url": "https://www.worldometers.info/world-population/singapore-population/"
+  },
+  {
+   "name": "Malawi",
+   "total_cases": "55,699",
+   "total_deaths": "1,805",
+   "active_cases": "12,821",
+   "total_tests": "354,875",
+   "popu": "19,669,438",
+   "popu_url": "https://www.worldometers.info/world-population/malawi-population/"
+  },
+  {
+   "name": "Jamaica",
+   "total_cases": "54,480",
+   "total_deaths": "1,219",
+   "active_cases": "6,069",
+   "total_tests": "507,483",
+   "popu": "2,975,338",
+   "popu_url": "https://www.worldometers.info/world-population/jamaica-population/"
+  },
+  {
+   "name": "DRC",
+   "total_cases": "51,523",
+   "total_deaths": "1,048",
+   "active_cases": "20,286",
+   "total_tests": "280,462",
+   "popu": "92,529,826",
+   "popu_url": "https://www.worldometers.info/world-population/democratic-republic-of-the-congo-population/"
+  },
+  {
+   "name": "Ivory Coast",
+   "total_cases": "51,028",
+   "total_deaths": "338",
+   "active_cases": "901",
+   "total_tests": "805,295",
+   "popu": "27,091,332",
+   "popu_url": "https://www.worldometers.info/world-population/cote-d-ivoire-population/"
+  },
+  {
+   "name": "Angola",
+   "total_cases": "43,592",
+   "total_deaths": "1,044",
+   "active_cases": "2,469",
+   "total_tests": "821,071",
+   "popu": "33,980,660",
+   "popu_url": "https://www.worldometers.info/world-population/angola-population/"
+  },
+  {
+   "name": "Madagascar",
+   "total_cases": "42,685",
+   "total_deaths": "943",
+   "active_cases": "565",
+   "total_tests": "228,372",
+   "popu": "28,467,957",
+   "popu_url": "https://www.worldometers.info/world-population/madagascar-population/"
+  },
+  {
+   "name": "Réunion",
+   "total_cases": "40,245",
+   "total_deaths": "288",
+   "active_cases": "4,394",
+   "total_tests": "103,924",
+   "popu": "902,314",
+   "popu_url": "https://www.worldometers.info/world-population/reunion-population/"
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "total_cases": "40,104",
+   "total_deaths": "1,129",
+   "active_cases": "5,966",
+   "total_tests": "278,047",
+   "popu": "1,404,458",
+   "popu_url": "https://www.worldometers.info/world-population/trinidad-and-tobago-population/"
+  },
+  {
+   "name": "Sudan",
+   "total_cases": "37,138",
+   "total_deaths": "2,776",
+   "active_cases": "3,495",
+   "total_tests": "234,414",
+   "popu": "44,967,255",
+   "popu_url": "https://www.worldometers.info/world-population/sudan-population/"
+  },
+  {
+   "name": "Fiji",
+   "total_cases": "36,322",
+   "total_deaths": "296",
+   "active_cases": "24,228",
+   "total_tests": "335,740",
+   "popu": "903,563",
+   "popu_url": "https://www.worldometers.info/world-population/fiji-population/"
+  },
+  {
+   "name": "Australia",
+   "total_cases": "36,051",
+   "total_deaths": "939",
+   "active_cases": "4,650",
+   "total_tests": "26,247,461",
+   "popu": "25,823,822",
+   "popu_url": "https://www.worldometers.info/world-population/australia-population/"
+  },
+  {
+   "name": "Malta",
+   "total_cases": "34,787",
+   "total_deaths": "424",
+   "active_cases": "1,454",
+   "total_tests": "1,113,670",
+   "popu": "442,833",
+   "popu_url": "https://www.worldometers.info/world-population/malta-population/"
+  },
+  {
+   "name": "Cabo Verde",
+   "total_cases": "33,976",
+   "total_deaths": "298",
+   "active_cases": "448",
+   "total_tests": "199,516",
+   "popu": "562,600",
+   "popu_url": "https://www.worldometers.info/world-population/cabo-verde-population/"
+  },
+  {
+   "name": "French Guiana",
+   "total_cases": "30,875",
+   "total_deaths": "193",
+   "active_cases": "20,687",
+   "total_tests": "330,251",
+   "popu": "307,131",
+   "popu_url": "https://www.worldometers.info/world-population/french-guiana-population/"
+  },
+  {
+   "name": "Eswatini",
+   "total_cases": "30,787",
+   "total_deaths": "844",
+   "active_cases": "6,850",
+   "total_tests": "268,499",
+   "popu": "1,173,319",
+   "popu_url": "https://www.worldometers.info/world-population/swaziland-population/"
+  },
+  {
+   "name": "Mauritania",
+   "total_cases": "27,957",
+   "total_deaths": "599",
+   "active_cases": "3,880",
+   "total_tests": "390,130",
+   "popu": "4,783,027",
+   "popu_url": "https://www.worldometers.info/world-population/mauritania-population/"
+  },
+  {
+   "name": "Guinea",
+   "total_cases": "26,630",
+   "total_deaths": "248",
+   "active_cases": "1,713",
+   "total_tests": "504,791",
+   "popu": "13,521,444",
+   "popu_url": "https://www.worldometers.info/world-population/guinea-population/"
+  },
+  {
+   "name": "Syria",
+   "total_cases": "26,071",
+   "total_deaths": "1,919",
+   "active_cases": "2,118",
+   "total_tests": "103,566",
+   "popu": "17,964,798",
+   "popu_url": "https://www.worldometers.info/world-population/syria-population/"
+  },
+  {
+   "name": "Suriname",
+   "total_cases": "25,853",
+   "total_deaths": "659",
+   "active_cases": "3,088",
+   "total_tests": "93,515",
+   "popu": "592,390",
+   "popu_url": "https://www.worldometers.info/world-population/suriname-population/"
+  },
+  {
+   "name": "Gabon",
+   "total_cases": "25,462",
+   "total_deaths": "165",
+   "active_cases": "49",
+   "total_tests": "1,005,057",
+   "popu": "2,283,080",
+   "popu_url": "https://www.worldometers.info/world-population/gabon-population/"
+  },
+  {
+   "name": "Guadeloupe",
+   "total_cases": "23,821",
+   "total_deaths": "247",
+   "active_cases": "21,324",
+   "total_tests": "275,414",
+   "popu": "400,199",
+   "popu_url": "https://www.worldometers.info/world-population/guadeloupe-population/"
+  },
+  {
+   "name": "Martinique",
+   "total_cases": "23,029",
+   "total_deaths": "129",
+   "active_cases": "22,796",
+   "total_tests": "246,833",
+   "popu": "374,946",
+   "popu_url": "https://www.worldometers.info/world-population/martinique-population/"
+  },
+  {
+   "name": "Guyana",
+   "total_cases": "22,843",
+   "total_deaths": "554",
+   "active_cases": "777",
+   "total_tests": "232,913",
+   "popu": "790,713",
+   "popu_url": "https://www.worldometers.info/world-population/guyana-population/"
+  },
+  {
+   "name": "French Polynesia",
+   "total_cases": "22,459",
+   "total_deaths": "157",
+   "active_cases": "2,477",
+   "total_tests": "26,355",
+   "popu": "282,688",
+   "popu_url": "https://www.worldometers.info/world-population/french-polynesia-population/"
+  },
+  {
+   "name": "Haiti",
+   "total_cases": "20,363",
+   "total_deaths": "566",
+   "active_cases": "4,687",
+   "total_tests": "101,640",
+   "popu": "11,554,701",
+   "popu_url": "https://www.worldometers.info/world-population/haiti-population/"
+  },
+  {
+   "name": "Mayotte",
+   "total_cases": "19,531",
+   "total_deaths": "174",
+   "active_cases": "16,393",
+   "total_tests": "176,919",
+   "popu": "280,002",
+   "popu_url": "https://www.worldometers.info/world-population/mayotte-population/"
+  },
+  {
+   "name": "Seychelles",
+   "total_cases": "18,582",
+   "total_deaths": "94",
+   "active_cases": "496",
+   "total_tests": "21,504",
+   "popu": "99,014",
+   "popu_url": "https://www.worldometers.info/world-population/seychelles-population/"
+  },
+  {
+   "name": "Papua New Guinea",
+   "total_cases": "17,774",
+   "total_deaths": "192",
+   "active_cases": "198",
+   "total_tests": "147,433",
+   "popu": "9,132,285",
+   "popu_url": "https://www.worldometers.info/world-population/papua-new-guinea-population/"
+  },
+  {
+   "name": "Togo",
+   "total_cases": "16,559",
+   "total_deaths": "156",
+   "active_cases": "1,618",
+   "total_tests": "415,131",
+   "popu": "8,490,599",
+   "popu_url": "https://www.worldometers.info/world-population/togo-population/"
+  },
+  {
+   "name": "Taiwan",
+   "total_cases": "15,775",
+   "total_deaths": "806",
+   "active_cases": "662",
+   "total_tests": "3,987,463",
+   "popu": "23,864,059",
+   "popu_url": "https://www.worldometers.info/world-population/taiwan-population/"
+  },
+  {
+   "name": "Somalia",
+   "total_cases": "15,735",
+   "total_deaths": "837",
+   "active_cases": "7,203",
+   "total_tests": "171,479",
+   "popu": "16,376,906",
+   "popu_url": "https://www.worldometers.info/world-population/somalia-population/"
+  },
+  {
+   "name": "Tajikistan",
+   "total_cases": "15,583",
+   "total_deaths": "122",
+   "active_cases": "342",
+   "popu": "9,771,623",
+   "popu_url": "https://www.worldometers.info/world-population/tajikistan-population/"
+  },
+  {
+   "name": "Bahamas",
+   "total_cases": "15,419",
+   "total_deaths": "295",
+   "active_cases": "2,300",
+   "total_tests": "122,168",
+   "popu": "397,360",
+   "popu_url": "https://www.worldometers.info/world-population/bahamas-population/"
+  },
+  {
+   "name": "Andorra",
+   "total_cases": "14,836",
+   "total_deaths": "128",
+   "active_cases": "264",
+   "total_tests": "193,595",
+   "popu": "77,401",
+   "popu_url": "https://www.worldometers.info/world-population/andorra-population/"
+  },
+  {
+   "name": "Mali",
+   "total_cases": "14,637",
+   "total_deaths": "534",
+   "active_cases": "118",
+   "total_tests": "351,983",
+   "popu": "20,886,964",
+   "popu_url": "https://www.worldometers.info/world-population/mali-population/"
+  },
+  {
+   "name": "Belize",
+   "total_cases": "14,438",
+   "total_deaths": "339",
+   "active_cases": "477",
+   "total_tests": "191,441",
+   "popu": "405,520",
+   "popu_url": "https://www.worldometers.info/world-population/belize-population/"
+  },
+  {
+   "name": "Curaçao",
+   "total_cases": "13,988",
+   "total_deaths": "131",
+   "active_cases": "560",
+   "total_tests": "192,795",
+   "popu": "164,829",
+   "popu_url": "https://www.worldometers.info/world-population/curacao-population/"
+  },
+  {
+   "name": "Burkina Faso",
+   "total_cases": "13,610",
+   "total_deaths": "169",
+   "active_cases": "50",
+   "total_tests": "206,152",
+   "popu": "21,528,593",
+   "popu_url": "https://www.worldometers.info/world-population/burkina-faso-population/"
+  },
+  {
+   "name": "Lesotho",
+   "total_cases": "13,603",
+   "total_deaths": "377",
+   "active_cases": "6,562",
+   "total_tests": "136,956",
+   "popu": "2,160,856",
+   "popu_url": "https://www.worldometers.info/world-population/lesotho-population/"
+  },
+  {
+   "name": "Congo",
+   "total_cases": "13,216",
+   "total_deaths": "178",
+   "active_cases": "617",
+   "total_tests": "188,207",
+   "popu": "5,666,360",
+   "popu_url": "https://www.worldometers.info/world-population/congo-population/"
+  },
+  {
+   "name": "Aruba",
+   "total_cases": "12,371",
+   "total_deaths": "111",
+   "active_cases": "792",
+   "total_tests": "177,885",
+   "popu": "107,263",
+   "popu_url": "https://www.worldometers.info/world-population/aruba-population/"
+  },
+  {
+   "name": "Hong Kong",
+   "total_cases": "12,012",
+   "total_deaths": "212",
+   "active_cases": "75",
+   "total_tests": "21,390,075",
+   "popu": "7,563,621",
+   "popu_url": "https://www.worldometers.info/world-population/china-hong-kong-sar-population/"
+  },
+  {
+   "name": "Djibouti",
+   "total_cases": "11,659",
+   "total_deaths": "156",
+   "active_cases": "7",
+   "total_tests": "195,448",
+   "popu": "1,003,721",
+   "popu_url": "https://www.worldometers.info/world-population/djibouti-population/"
+  },
+  {
+   "name": "Timor-Leste",
+   "total_cases": "11,475",
+   "total_deaths": "26",
+   "active_cases": "1,335",
+   "total_tests": "95,473",
+   "popu": "1,345,894",
+   "popu_url": "https://www.worldometers.info/world-population/timor-leste-population/"
+  },
+  {
+   "name": "South Sudan",
+   "total_cases": "11,100",
+   "total_deaths": "120",
+   "active_cases": "466",
+   "total_tests": "174,045",
+   "popu": "11,337,409",
+   "popu_url": "https://www.worldometers.info/world-population/south-sudan-population/"
+  },
+  {
+   "name": "Nicaragua",
+   "total_cases": "9,853",
+   "total_deaths": "196",
+   "active_cases": "5,432",
+   "popu": "6,710,842",
+   "popu_url": "https://www.worldometers.info/world-population/nicaragua-population/"
+  },
+  {
+   "name": "Channel Islands",
+   "total_cases": "9,595",
+   "total_deaths": "91",
+   "active_cases": "811",
+   "total_tests": "736,315",
+   "popu": "175,618",
+   "popu_url": "https://www.worldometers.info/world-population/channel-islands-population/"
+  },
+  {
+   "name": "Equatorial Guinea",
+   "total_cases": "8,940",
+   "total_deaths": "123",
+   "active_cases": "87",
+   "total_tests": "180,000",
+   "popu": "1,453,206",
+   "popu_url": "https://www.worldometers.info/world-population/equatorial-guinea-population/"
+  },
+  {
+   "name": "Iceland",
+   "total_cases": "8,738",
+   "total_deaths": "30",
+   "active_cases": "1,454",
+   "total_tests": "888,928",
+   "popu": "343,670",
+   "popu_url": "https://www.worldometers.info/world-population/iceland-population/"
+  },
+  {
+   "name": "Benin",
+   "total_cases": "8,608",
+   "total_deaths": "110",
+   "active_cases": "362",
+   "total_tests": "604,310",
+   "popu": "12,469,721",
+   "popu_url": "https://www.worldometers.info/world-population/benin-population/"
+  },
+  {
+   "name": "Gambia",
+   "total_cases": "8,603",
+   "total_deaths": "242",
+   "active_cases": "825",
+   "total_tests": "100,338",
+   "popu": "2,490,725",
+   "popu_url": "https://www.worldometers.info/world-population/gambia-population/"
+  },
+  {
+   "name": "Laos",
+   "total_cases": "8,132",
+   "total_deaths": "8",
+   "active_cases": "4,178",
+   "total_tests": "323,018",
+   "popu": "7,391,080",
+   "popu_url": "https://www.worldometers.info/world-population/laos-population/"
+  },
+  {
+   "name": "Burundi",
+   "total_cases": "8,088",
+   "total_deaths": "38",
+   "active_cases": "7,277",
+   "total_tests": "345,742",
+   "popu": "12,276,923",
+   "popu_url": "https://www.worldometers.info/world-population/burundi-population/"
+  },
+  {
+   "name": "CAR",
+   "total_cases": "7,151",
+   "total_deaths": "98",
+   "active_cases": "194",
+   "total_tests": "54,814",
+   "popu": "4,921,592",
+   "popu_url": "https://www.worldometers.info/world-population/central-african-republic-population/"
+  },
+  {
+   "name": "Yemen",
+   "total_cases": "7,131",
+   "total_deaths": "1,384",
+   "active_cases": "1,442",
+   "total_tests": "167,854",
+   "popu": "30,543,511",
+   "popu_url": "https://www.worldometers.info/world-population/yemen-population/"
+  },
+  {
+   "name": "Eritrea",
+   "total_cases": "6,576",
+   "total_deaths": "35",
+   "active_cases": "54",
+   "total_tests": "23,693",
+   "popu": "3,600,136",
+   "popu_url": "https://www.worldometers.info/world-population/eritrea-population/"
+  },
+  {
+   "name": "Sierra Leone",
+   "total_cases": "6,313",
+   "total_deaths": "120",
+   "active_cases": "1,886",
+   "total_tests": "160,358",
+   "popu": "8,154,249",
+   "popu_url": "https://www.worldometers.info/world-population/sierra-leone-population/"
+  },
+  {
+   "name": "Saint Lucia",
+   "total_cases": "5,713",
+   "total_deaths": "90",
+   "active_cases": "207",
+   "total_tests": "60,532",
+   "popu": "184,547",
+   "popu_url": "https://www.worldometers.info/world-population/saint-lucia-population/"
+  },
+  {
+   "name": "Niger",
+   "total_cases": "5,682",
+   "total_deaths": "196",
+   "active_cases": "125",
+   "total_tests": "131,415",
+   "popu": "25,160,619",
+   "popu_url": "https://www.worldometers.info/world-population/niger-population/"
+  },
+  {
+   "name": "Liberia",
+   "total_cases": "5,459",
+   "total_deaths": "148",
+   "active_cases": "2,596",
+   "total_tests": "128,246",
+   "popu": "5,187,486",
+   "popu_url": "https://www.worldometers.info/world-population/liberia-population/"
+  },
+  {
+   "name": "Isle of Man",
+   "total_cases": "5,337",
+   "total_deaths": "33",
+   "active_cases": "983",
+   "total_tests": "83,753",
+   "popu": "85,526",
+   "popu_url": "https://www.worldometers.info/world-population/isle-of-man-population/"
+  },
+  {
+   "name": "San Marino",
+   "total_cases": "5,147",
+   "total_deaths": "90",
+   "active_cases": "48",
+   "total_tests": "71,492",
+   "popu": "34,009",
+   "popu_url": "https://www.worldometers.info/world-population/san-marino-population/"
+  },
+  {
+   "name": "Gibraltar",
+   "total_cases": "5,116",
+   "total_deaths": "95",
+   "active_cases": "250",
+   "total_tests": "317,534",
+   "popu": "33,680",
+   "popu_url": "https://www.worldometers.info/world-population/gibraltar-population/"
+  },
+  {
+   "name": "Chad",
+   "total_cases": "4,977",
+   "total_deaths": "174",
+   "active_cases": "7",
+   "total_tests": "133,751",
+   "popu": "16,939,920",
+   "popu_url": "https://www.worldometers.info/world-population/chad-population/"
+  },
+  {
+   "name": "Guinea-Bissau",
+   "total_cases": "4,764",
+   "total_deaths": "79",
+   "active_cases": "550",
+   "total_tests": "83,502",
+   "popu": "2,018,790",
+   "popu_url": "https://www.worldometers.info/world-population/guinea-bissau-population/"
+  },
+  {
+   "name": "Mauritius",
+   "total_cases": "4,592",
+   "total_deaths": "20",
+   "active_cases": "2,718",
+   "total_tests": "358,675",
+   "popu": "1,274,083",
+   "popu_url": "https://www.worldometers.info/world-population/mauritius-population/"
+  },
+  {
+   "name": "Barbados",
+   "total_cases": "4,455",
+   "total_deaths": "48",
+   "active_cases": "97",
+   "total_tests": "225,878",
+   "popu": "287,761",
+   "popu_url": "https://www.worldometers.info/world-population/barbados-population/"
+  },
+  {
+   "name": "Comoros",
+   "total_cases": "4,031",
+   "total_deaths": "147",
+   "active_cases": "9",
+   "popu": "889,839",
+   "popu_url": "https://www.worldometers.info/world-population/comoros-population/"
+  },
+  {
+   "name": "Liechtenstein",
+   "total_cases": "3,099",
+   "total_deaths": "59",
+   "active_cases": "18",
+   "total_tests": "49,126",
+   "popu": "38,248",
+   "popu_url": "https://www.worldometers.info/world-population/liechtenstein-population/"
+  },
+  {
+   "name": "Monaco",
+   "total_cases": "2,973",
+   "total_deaths": "33",
+   "active_cases": "150",
+   "total_tests": "54,960",
+   "popu": "39,547",
+   "popu_url": "https://www.worldometers.info/world-population/monaco-population/"
+  },
+  {
+   "name": "Sint Maarten",
+   "total_cases": "2,924",
+   "total_deaths": "34",
+   "active_cases": "187",
+   "total_tests": "37,841",
+   "popu": "43,409",
+   "popu_url": "https://www.worldometers.info/world-population/sint-maarten-population/"
+  },
+  {
+   "name": "New Zealand",
+   "total_cases": "2,880",
+   "total_deaths": "26",
+   "active_cases": "30",
+   "total_tests": "2,507,176"
+  },
+  {
+   "name": "Saint Martin",
+   "total_cases": "2,713",
+   "total_deaths": "39",
+   "active_cases": "1,275",
+   "total_tests": "46,787",
+   "popu": "39,387",
+   "popu_url": "https://www.worldometers.info/world-population/saint-martin-population/"
+  },
+  {
+   "name": "Bermuda",
+   "total_cases": "2,614",
+   "total_deaths": "33",
+   "active_cases": "71",
+   "total_tests": "401,797",
+   "popu": "62,025",
+   "popu_url": "https://www.worldometers.info/world-population/bermuda-population/"
+  },
+  {
+   "name": "Bhutan",
+   "total_cases": "2,544",
+   "total_deaths": "2",
+   "active_cases": "82",
+   "total_tests": "798,573",
+   "popu": "780,912",
+   "popu_url": "https://www.worldometers.info/world-population/bhutan-population/"
+  },
+  {
+   "name": "Turks and Caicos",
+   "total_cases": "2,514",
+   "total_deaths": "18",
+   "active_cases": "57",
+   "total_tests": "94,789",
+   "popu": "39,290",
+   "popu_url": "https://www.worldometers.info/world-population/turks-and-caicos-islands-population/"
+  },
+  {
+   "name": "British Virgin Islands",
+   "total_cases": "2,500",
+   "total_deaths": "31",
+   "active_cases": "555",
+   "total_tests": "73,138",
+   "popu": "30,452",
+   "popu_url": "https://www.worldometers.info/world-population/british-virgin-islands-population/"
+  },
+  {
+   "name": "Sao Tome and Principe",
+   "total_cases": "2,470",
+   "total_deaths": "37",
+   "active_cases": "61",
+   "total_tests": "14,270",
+   "popu": "223,608",
+   "popu_url": "https://www.worldometers.info/world-population/sao-tome-and-principe-population/"
+  },
+  {
+   "name": "St. Vincent Grenadines",
+   "total_cases": "2,298",
+   "total_deaths": "12",
+   "active_cases": "53",
+   "total_tests": "61,614",
+   "popu": "111,326",
+   "popu_url": "https://www.worldometers.info/world-population/saint-vincent-and-the-grenadines-population/"
+  },
+  {
+   "name": "Caribbean Netherlands",
+   "total_cases": "1,715",
+   "total_deaths": "17",
+   "active_cases": "25",
+   "total_tests": "12,584",
+   "popu": "26,490",
+   "popu_url": "https://www.worldometers.info/world-population/caribbean-netherlands-population/"
+  },
+  {
+   "name": "St. Barth",
+   "total_cases": "1,336",
+   "total_deaths": "2",
+   "active_cases": "872",
+   "total_tests": "38,369",
+   "popu": "9,910",
+   "popu_url": "https://www.worldometers.info/world-population/saint-barthelemy-population/"
+  },
+  {
+   "name": "Antigua and Barbuda",
+   "total_cases": "1,328",
+   "total_deaths": "43",
+   "active_cases": "39",
+   "total_tests": "17,409",
+   "popu": "98,817",
+   "popu_url": "https://www.worldometers.info/world-population/antigua-and-barbuda-population/"
+  },
+  {
+   "name": "Tanzania",
+   "total_cases": "1,017",
+   "total_deaths": "21",
+   "active_cases": "813",
+   "popu": "61,589,946",
+   "popu_url": "https://www.worldometers.info/world-population/tanzania-population/"
+  },
+  {
+   "name": "Faeroe Islands",
+   "total_cases": "987",
+   "total_deaths": "2",
+   "active_cases": "22",
+   "total_tests": "377,226",
+   "popu": "49,067",
+   "popu_url": "https://www.worldometers.info/world-population/faeroe-islands-population/"
+  },
+  {
+   "name": "Cayman Islands",
+   "total_cases": "646",
+   "total_deaths": "2",
+   "active_cases": "5",
+   "total_tests": "119,072",
+   "popu": "66,567",
+   "popu_url": "https://www.worldometers.info/world-population/cayman-islands-population/"
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "total_cases": "611",
+   "total_deaths": "3",
+   "active_cases": "50",
+   "total_tests": "26,709",
+   "popu": "53,611",
+   "popu_url": "https://www.worldometers.info/world-population/saint-kitts-and-nevis-population/"
+  },
+  {
+   "name": "Wallis and Futuna",
+   "total_cases": "445",
+   "total_deaths": "7",
+   "active_cases": "0",
+   "total_tests": "20,508",
+   "popu": "11,022",
+   "popu_url": "https://www.worldometers.info/world-population/wallis-and-futuna-islands-population/"
+  },
+  {
+   "name": "Brunei",
+   "total_cases": "339",
+   "total_deaths": "3",
+   "active_cases": "47",
+   "total_tests": "154,574",
+   "popu": "442,067",
+   "popu_url": "https://www.worldometers.info/world-population/brunei-darussalam-population/"
+  },
+  {
+   "name": "Dominica",
+   "total_cases": "218",
+   "active_cases": "9",
+   "total_tests": "21,432",
+   "popu": "72,182",
+   "popu_url": "https://www.worldometers.info/world-population/dominica-population/"
+  },
+  {
+   "name": "Greenland",
+   "total_cases": "168",
+   "active_cases": "67",
+   "total_tests": "44,501",
+   "popu": "56,878",
+   "popu_url": "https://www.worldometers.info/world-population/greenland-population/"
+  },
+  {
+   "name": "Grenada",
+   "total_cases": "164",
+   "total_deaths": "1",
+   "active_cases": "2",
+   "total_tests": "43,173",
+   "popu": "113,095",
+   "popu_url": "https://www.worldometers.info/world-population/grenada-population/"
+  },
+  {
+   "name": "New Caledonia",
+   "total_cases": "134",
+   "active_cases": "76",
+   "total_tests": "38,831",
+   "popu": "288,504",
+   "popu_url": "https://www.worldometers.info/world-population/new-caledonia-population/"
+  },
+  {
+   "name": "Anguilla",
+   "total_cases": "113",
+   "active_cases": "2",
+   "total_tests": "31,656",
+   "popu": "15,150",
+   "popu_url": "https://www.worldometers.info/world-population/anguilla-population/"
+  },
+  {
+   "name": "Falkland Islands",
+   "total_cases": "66",
+   "active_cases": "3",
+   "total_tests": "7,409",
+   "popu": "3,590",
+   "popu_url": "https://www.worldometers.info/world-population/falkland-islands-malvinas-population/"
+  },
+  {
+   "name": "Macao",
+   "total_cases": "63",
+   "active_cases": "6",
+   "total_tests": "4,705",
+   "popu": "659,022",
+   "popu_url": "https://www.worldometers.info/world-population/china-macao-sar-population/"
+  },
+  {
+   "name": "Saint Pierre Miquelon",
+   "total_cases": "28",
+   "active_cases": "2",
+   "total_tests": "6,128",
+   "popu": "5,763",
+   "popu_url": "https://www.worldometers.info/world-population/saint-pierre-and-miquelon-population/"
+  },
+  {
+   "name": "Vatican City",
+   "total_cases": "27",
+   "active_cases": "0",
+   "popu": "803",
+   "popu_url": "https://www.worldometers.info/world-population/holy-see-population/"
+  },
+  {
+   "name": "Montserrat",
+   "total_cases": "22",
+   "total_deaths": "1",
+   "active_cases": "1",
+   "total_tests": "1,408",
+   "popu": "4,995",
+   "popu_url": "https://www.worldometers.info/world-population/montserrat-population/"
+  },
+  {
+   "name": "Solomon Islands",
+   "total_cases": "20",
+   "active_cases": "0",
+   "total_tests": "4,500",
+   "popu": "705,273",
+   "popu_url": "https://www.worldometers.info/world-population/solomon-islands-population/"
+  },
+  {
+   "name": "Western Sahara",
+   "total_cases": "10",
+   "total_deaths": "1",
+   "active_cases": "1",
+   "popu": "613,372",
+   "popu_url": "https://www.worldometers.info/world-population/western-sahara-population/"
+  },
+  {
+   "name": "Vanuatu",
+   "total_cases": "4",
+   "total_deaths": "1",
+   "active_cases": "0",
+   "total_tests": "23,000",
+   "popu": "314,983",
+   "popu_url": "https://www.worldometers.info/world-population/vanuatu-population/"
+  },
+  {
+   "name": "Marshall Islands",
+   "total_cases": "4",
+   "active_cases": "0",
+   "popu": "59,628",
+   "popu_url": "https://www.worldometers.info/world-population/marshall-islands-population/"
+  },
+  {
+   "name": "Samoa",
+   "total_cases": "3",
+   "active_cases": "0",
+   "popu": "199,859",
+   "popu_url": "https://www.worldometers.info/world-population/samoa-population/"
+  },
+  {
+   "name": "Saint Helena",
+   "total_cases": "2",
+   "active_cases": "0",
+   "popu": "6,097",
+   "popu_url": "https://www.worldometers.info/world-population/saint-helena-population/"
+  },
+  {
+   "name": "Micronesia",
+   "total_cases": "1",
+   "active_cases": "0",
+   "popu": "116,343",
+   "popu_url": "https://www.worldometers.info/world-population/micronesia-population/"
+  }
+ ]
+}
